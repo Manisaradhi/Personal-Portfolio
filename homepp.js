@@ -30,7 +30,7 @@ const Homepp = () => {
             <ul>
               <li><a className="p1" href="https://github.com/Manisaradhi/A-Lightweight-Secure-Data-Sharing-Scheme-for-Mobile-Cloud-Computing">A Lightweight Secure Data Sharing Scheme for Mobile Cloud Computing</a></li>
               <li><a className="p2" href="https://github.com/Manisaradhi/Train-tickets-booking-system">Train tickets booking system</a></li>
-              <li><a className="p3" href="">Personal Portfolio</a></li>
+              <li><a className="p3" href="https://github.com/Manisaradhi/Personal-Portfolio">Personal Portfolio</a></li>
             </ul>
         </div>
     )
